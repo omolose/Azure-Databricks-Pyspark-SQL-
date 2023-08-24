@@ -5,4 +5,4 @@
      - Databricks Cluster Configurations
 
 ## 2. Databrick Notebooks
-     - 
+     - Magic commands
