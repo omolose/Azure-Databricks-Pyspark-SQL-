@@ -13,8 +13,12 @@
 
 ## 3. Accessing Azure DataLake from Databricks - (Section 6)     
 - Creating DataLake Storage Gen 2.
-- Accessing Azure DataLake using Access Key
+- Accessing Azure DataLake using Access Key.
 - [Access Azure Data Lake using SAS Token](https://learn.microsoft.com/en-us/azure/databricks/storage/azure-storage#access-azure-data-lake-storage-gen2-or-blob-storage-using-a-sas-token)
+- Access Azure Data Lake using Service Principal.
+- Cluster Scoped Authentication.
+- Azure Azure Data Lake using Credential Passthrough
+  
      
 ## 4. Securing Access to Azure Data Lake - Section (7)
 - Creating Azure Key Vault
