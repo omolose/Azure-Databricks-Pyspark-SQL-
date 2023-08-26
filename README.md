@@ -9,10 +9,16 @@
 
 ## 2. Databrick Notebooks
 - Magic commands
+- Databrick utilities
 
 ## 3. Accessing Azure DataLake from Databricks - (Section 6)     
 - Creating DataLake Storage Gen 2.
 - Accessing Azure DataLake using Access Key
 - [Access Azure Data Lake using SAS Token](https://learn.microsoft.com/en-us/azure/databricks/storage/azure-storage#access-azure-data-lake-storage-gen2-or-blob-storage-using-a-sas-token)
      
-     
+## 4. Securing Access to Azure Data Lake - Section (7)
+- Creating Azure Key Vault
+- Creating Secret Scope
+- Databricks Secrets Utility
+- Using Secrets to Access DataLake Using NoteBooks
+- Using Secrets Utility in Clusters
