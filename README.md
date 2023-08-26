@@ -1,4 +1,7 @@
 # Azure Databricks & Spark For Data Engineers (Pyspark/SQL)
+## [Azure Portal](https://portal.azure.com/#home)
+### DOCUMENTATIONS:
+- [SAS](https://learn.microsoft.com/en-us/azure/databricks/storage/azure-storage#access-azure-data-lake-storage-gen2-or-blob-storage-using-a-sas-token)
 ## 1. Databrick Clusters
 - What is Databricks clusters
 - Databricks clusters types
