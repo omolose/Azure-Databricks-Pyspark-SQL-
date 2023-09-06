@@ -15,8 +15,12 @@ Key Terms | Definition of terms | Documentation Sources |
 | Cluster Policies  | This allow administrators to enforce controls over the creation and configuration of clusters |  [Docs 1](https://docs.databricks.com/en/administration-guide/clusters/policies.html) ,  [Docs 2](https://docs.databricks.com/en/administration-guide/clusters/policies-best-practices.html) | 
 
 ## 2. Databrick Notebooks
-- Magic commands
-- Databrick utilities
+
+| Key Terms | Definition of terms | Documentation Sources |
+| ----------- | ----------- |  ----------- |
+| Introducing Databricks Notebooks   | Notebooks are a common tool in data science and machine learning for developing code and presenting results. In Databricks, notebooks are the primary tool for creating data science and machine learning workflows and collaborating with colleagues. Databricks notebooks provide real-time coauthoring in multiple languages, automatic versioning, and built-in data visualizations. |  [Docs](https://docs.databricks.com/en/notebooks/index.html) |  
+| Magic Commands  | Magic commands in Databricks let you execute the code snippets other than the default language of the notebook. | [Docs](https://insightsndata.com/databricks-notebook-magic-commands-b5e3aa3f1585) |  
+| Databricks Utilities (dbutils) | Databricks Utilities (dbutils) make it easy to perform powerful combinations of tasks. You can use the utilities to work with object storage efficiently, to chain and parameterize notebooks, and to work with secrets. |  [Docs](https://docs.databricks.com/en/dev-tools/databricks-utils.html) | 
 
 ## 3. Accessing Azure DataLake from Databricks - (Section 6)     
 - Creating DataLake Storage Gen 2.
