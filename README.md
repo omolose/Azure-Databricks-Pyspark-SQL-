@@ -22,7 +22,13 @@ Key Terms | Definition of terms | Documentation Sources |
 | Magic Commands  | Magic commands in Databricks let you execute the code snippets other than the default language of the notebook. | [Docs](https://insightsndata.com/databricks-notebook-magic-commands-b5e3aa3f1585) |  
 | Databricks Utilities (dbutils) | Databricks Utilities (dbutils) make it easy to perform powerful combinations of tasks. You can use the utilities to work with object storage efficiently, to chain and parameterize notebooks, and to work with secrets. |  [Docs](https://docs.databricks.com/en/dev-tools/databricks-utils.html) | 
 
-## 3. Accessing Azure DataLake from Databricks - (Section 6)     
+## 3. Accessing Azure DataLake from Databricks - (Section 6) 
+| Key Terms | Definition of terms | Documentation Sources |
+| ----------- | ----------- |  ----------- |
+| Creating DataLake Storage Gen 2   | Azure Data Lake Storage Gen2 is a set of capabilities dedicated to big data analytics, built on Azure Blob Storage. |  [About Datalake Storage Gen 2](https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction), [step-by-step guide](https://learn.microsoft.com/en-us/azure/storage/common/storage-account-create?toc=%2Fazure%2Fstorage%2Fblobs%2Ftoc.json&tabs=azure-portal) |  
+| Azure Storage Explorer | This is a standalone app that makes it easy to work with Azure Storage data on Windows, macOS, and Linux. | [Docs](https://learn.microsoft.com/en-us/azure/vs-azure-tools-storage-manage-with-storage-explorer?tabs=windows) |  
+| Databricks Utilities (dbutils) | Databricks Utilities (dbutils) make it easy to perform powerful combinations of tasks. You can use the utilities to work with object storage efficiently, to chain and parameterize notebooks, and to work with secrets. |  [Docs](https://docs.databricks.com/en/dev-tools/databricks-utils.html) | 
+
 - Creating DataLake Storage Gen 2.
 - Accessing Azure DataLake using Access Key.
 - [Access Azure Data Lake using SAS Token](https://learn.microsoft.com/en-us/azure/databricks/storage/azure-storage#access-azure-data-lake-storage-gen2-or-blob-storage-using-a-sas-token)
