@@ -5,7 +5,11 @@
 ## 1. Databrick Clusters
 - What is Databricks clusters
 - Databricks clusters types
+- Creating a Databricks Cluster
 - Databricks Cluster Configurations
+- Databricks Cluster Pools
+- Databricks Cluster Policy
+- Databricks Pricing
 
 ## 2. Databrick Notebooks
 - Magic commands
