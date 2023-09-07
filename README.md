@@ -27,3 +27,9 @@ Key Terms | Definition of terms | Documentation Sources |
 | Accessing Azure Data Lake Storage Gen2 From Databricks |This tutorial guides you through all the steps necessary to connect from Azure Databricks to Azure Data Lake Storage Gen2 using OAuth 2.0 with an Azure service principal.|  [Docs](https://learn.microsoft.com/en-us/azure/databricks/getting-started/connect-to-azure-storage) | 
 |Databricks File System(DBFS) | The Databricks File System (DBFS) is a distributed file system mounted into a Databricks workspace and available on Databricks clusters. DBFS is an abstraction on top of scalable object storage that maps Unix-like filesystem calls to native cloud storage API calls|  [Docs](https://docs.databricks.com/en/dbfs/index.html) | 
 |Mount ADLS Gen2 or Blob Storage in Azure Databricks | Find the step-by-step guide in the documentation|  [Docs](https://techcommunity.microsoft.com/t5/azure-paas-blog/mount-adls-gen2-or-blob-storage-in-azure-databricks/ba-p/3802926) | 
+
+
+## 4. Spark Architecture - (Section 10) 
+| Key Terms | Definition of terms | Documentation Sources |
+| ----------- | ----------- |  ----------- |
+| Spark Architecture | Apache Spark is an actively developed and unified computing engine and a set of libraries. It is used for parallel data processing on computer clusters and has become a standard tool for any developer or data scientist interested in big data.Spark supports multiple widely used programming languages, such as Java, Python, R, and Scala. It includes libraries for a diverse range of tasks, such as SQL, streaming, machine learning, etc. It runs anywhere from a laptop to a cluster of thousands of servers, making it a beginner-friendly system with a steep learning curve, and users can scale up to big data processing or an incredibly large scale. |  [Docs](https://intellipaat.com/blog/tutorial/spark-tutorial/spark-architecture/)|  
