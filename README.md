@@ -27,7 +27,7 @@ Key Terms | Definition of terms | Documentation Sources |
 | ----------- | ----------- |  ----------- |
 | Creating DataLake Storage Gen 2   | Azure Data Lake Storage Gen2 is a set of capabilities dedicated to big data analytics, built on Azure Blob Storage. |  [About Datalake Storage Gen 2](https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction), [step-by-step guide](https://learn.microsoft.com/en-us/azure/storage/common/storage-account-create?toc=%2Fazure%2Fstorage%2Fblobs%2Ftoc.json&tabs=azure-portal) |  
 | Azure Storage Explorer | This is a standalone app that makes it easy to work with Azure Storage data on Windows, macOS, and Linux. | [Docs](https://learn.microsoft.com/en-us/azure/vs-azure-tools-storage-manage-with-storage-explorer?tabs=windows) |  
-| Databricks Utilities (dbutils) | Databricks Utilities (dbutils) make it easy to perform powerful combinations of tasks. You can use the utilities to work with object storage efficiently, to chain and parameterize notebooks, and to work with secrets. |  [Docs](https://docs.databricks.com/en/dev-tools/databricks-utils.html) | 
+| Accessing Azure Data Lake Storage Gen2 From Databricks |This tutorial guides you through all the steps necessary to connect from Azure Databricks to Azure Data Lake Storage Gen2 using OAuth 2.0 with an Azure service principal.|  [Docs](https://learn.microsoft.com/en-us/azure/databricks/getting-started/connect-to-azure-storage) | 
 
 - Creating DataLake Storage Gen 2.
 - Accessing Azure DataLake using Access Key.
