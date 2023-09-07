@@ -19,9 +19,11 @@ Key Terms | Definition of terms | Documentation Sources |
 | Magic Commands  | Magic commands in Databricks let you execute the code snippets other than the default language of the notebook. | [Docs](https://insightsndata.com/databricks-notebook-magic-commands-b5e3aa3f1585) |  
 | Databricks Utilities (dbutils) | Databricks Utilities (dbutils) make it easy to perform powerful combinations of tasks. You can use the utilities to work with object storage efficiently, to chain and parameterize notebooks, and to work with secrets. |  [Docs](https://docs.databricks.com/en/dev-tools/databricks-utils.html) | 
 
-## 3. Accessing Azure DataLake from Databricks - (Section 6 & 7) 
+## 3. Accessing Azure DataLake from Databricks - (Section 6, 7 & 8) 
 | Key Terms | Definition of terms | Documentation Sources |
 | ----------- | ----------- |  ----------- |
 | Creating DataLake Storage Gen 2   | Azure Data Lake Storage Gen2 is a set of capabilities dedicated to big data analytics, built on Azure Blob Storage. |  [About Datalake Storage Gen 2](https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction), [step-by-step guide](https://learn.microsoft.com/en-us/azure/storage/common/storage-account-create?toc=%2Fazure%2Fstorage%2Fblobs%2Ftoc.json&tabs=azure-portal) |  
 | Azure Storage Explorer | This is a standalone app that makes it easy to work with Azure Storage data on Windows, macOS, and Linux. | [Docs](https://learn.microsoft.com/en-us/azure/vs-azure-tools-storage-manage-with-storage-explorer?tabs=windows) |  
 | Accessing Azure Data Lake Storage Gen2 From Databricks |This tutorial guides you through all the steps necessary to connect from Azure Databricks to Azure Data Lake Storage Gen2 using OAuth 2.0 with an Azure service principal.|  [Docs](https://learn.microsoft.com/en-us/azure/databricks/getting-started/connect-to-azure-storage) | 
+|Databricks File System(DBFS) | The Databricks File System (DBFS) is a distributed file system mounted into a Databricks workspace and available on Databricks clusters. DBFS is an abstraction on top of scalable object storage that maps Unix-like filesystem calls to native cloud storage API calls|  [Docs](https://docs.databricks.com/en/dbfs/index.html) | 
+|Mount ADLS Gen2 or Blob Storage in Azure Databricks | Find the step-by-step guide in the documentation|  [Docs](https://techcommunity.microsoft.com/t5/azure-paas-blog/mount-adls-gen2-or-blob-storage-in-azure-databricks/ba-p/3802926) | 
