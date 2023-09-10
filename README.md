@@ -33,3 +33,8 @@ Key Terms | Definition of terms | Documentation Sources |
 | Key Terms | Definition of terms | Documentation Sources |
 | ----------- | ----------- |  ----------- |
 | Spark Architecture | Apache Spark is an actively developed and unified computing engine and a set of libraries. It is used for parallel data processing on computer clusters and has become a standard tool for any developer or data scientist interested in big data.Spark supports multiple widely used programming languages, such as Java, Python, R, and Scala. It includes libraries for a diverse range of tasks, such as SQL, streaming, machine learning, etc. It runs anywhere from a laptop to a cluster of thousands of servers, making it a beginner-friendly system with a steep learning curve, and users can scale up to big data processing or an incredibly large scale. |  [Docs](https://intellipaat.com/blog/tutorial/spark-tutorial/spark-architecture/)|  
+
+## 5. Data Ingestion - (Section 11) 
+| Key Terms | Definition of terms | Documentation Sources |
+| ----------- | ----------- |  ----------- |
+| Data Ingestion | The add data UI allows you to easily load data into Databricks from a variety of sources.  |  [Docs](https://docs.databricks.com/en/ingestion/add-data/index.html)|  
