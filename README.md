@@ -54,3 +54,12 @@ Key Terms | Definition of terms | Documentation Sources |
 | Key Terms | Definition of terms | Documentation Sources |
 | ----------- | ----------- |  ----------- |
 | Aggregations | N/A |  [Docs](https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/functions/aggregate)|  
+
+
+
+## 9. Spark SQL  - (Section 17 - 20) 
+| Key Terms | Definition of terms | Documentation Sources |
+| ----------- | ----------- |  ----------- |
+| Global Temp View | N/A |  [Docs](https://spark.apache.org/docs/latest/sql-getting-started.html#:~:text=Temporary%20views%20in%20Spark%20SQL,create%20a%20global%20temporary%20view.)|  
+| Filter, Joins & Aggregations  | N/A |  [Docs](https://kaizen.itversity.com/courses/hdpcsd-hdp-certified-spark-developer-hdpcsd-python/lessons/hdpcsd-apache-spark-2-data-frames-and-spark-sql-python/topic/hdpcsd-spark-sql-basic-transformations-such-as-filtering-aggregations-joins-etc-python/)|  
+
