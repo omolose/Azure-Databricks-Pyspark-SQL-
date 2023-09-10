@@ -34,7 +34,12 @@ Key Terms | Definition of terms | Documentation Sources |
 | ----------- | ----------- |  ----------- |
 | Spark Architecture | Apache Spark is an actively developed and unified computing engine and a set of libraries. It is used for parallel data processing on computer clusters and has become a standard tool for any developer or data scientist interested in big data.Spark supports multiple widely used programming languages, such as Java, Python, R, and Scala. It includes libraries for a diverse range of tasks, such as SQL, streaming, machine learning, etc. It runs anywhere from a laptop to a cluster of thousands of servers, making it a beginner-friendly system with a steep learning curve, and users can scale up to big data processing or an incredibly large scale. |  [Docs](https://intellipaat.com/blog/tutorial/spark-tutorial/spark-architecture/)|  
 
-## 5. Data Ingestion - (Section 11) 
+## 5. Data Ingestion - (Section 11 - 13) 
 | Key Terms | Definition of terms | Documentation Sources |
 | ----------- | ----------- |  ----------- |
 | Data Ingestion | The add data UI allows you to easily load data into Databricks from a variety of sources.  |  [Docs](https://docs.databricks.com/en/ingestion/add-data/index.html)|  
+
+## 6. Databrick Workflow - (Section 14) 
+| Key Terms | Definition of terms | Documentation Sources |
+| ----------- | ----------- |  ----------- |
+| Databrick Workflow | Databricks Workflows orchestrates data processing, machine learning, and analytics pipelines in the Databricks Lakehouse Platform. Workflows has fully managed orchestration services integrated with the Databricks platform, including Databricks Jobs to run non-interactive code in your Databricks workspace and Delta Live Tables to build reliable and maintainable ETL pipelines. |  [Docs](https://docs.databricks.com/en/workflows/index.html)|  
