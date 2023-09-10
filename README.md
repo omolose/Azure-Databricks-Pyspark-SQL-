@@ -48,3 +48,9 @@ Key Terms | Definition of terms | Documentation Sources |
 | Key Terms | Definition of terms | Documentation Sources |
 | ----------- | ----------- |  ----------- |
 | Filter and Join Transformation | This article shows you how to load and transform data using the Apache Spark Python (PySpark) DataFrame API in Databricks. |  [Docs](https://docs.databricks.com/en/getting-started/dataframes-python.html)|  
+
+
+## 8. Aggregations  - (Section 16) 
+| Key Terms | Definition of terms | Documentation Sources |
+| ----------- | ----------- |  ----------- |
+| Aggregations | N/A |  [Docs](https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/functions/aggregate)|  
