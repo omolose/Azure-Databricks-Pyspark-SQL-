@@ -43,3 +43,8 @@ Key Terms | Definition of terms | Documentation Sources |
 | Key Terms | Definition of terms | Documentation Sources |
 | ----------- | ----------- |  ----------- |
 | Databrick Workflow | Databricks Workflows orchestrates data processing, machine learning, and analytics pipelines in the Databricks Lakehouse Platform. Workflows has fully managed orchestration services integrated with the Databricks platform, including Databricks Jobs to run non-interactive code in your Databricks workspace and Delta Live Tables to build reliable and maintainable ETL pipelines. |  [Docs](https://docs.databricks.com/en/workflows/index.html)|  
+
+## 7. Filter and Join Transformation  - (Section 15) 
+| Key Terms | Definition of terms | Documentation Sources |
+| ----------- | ----------- |  ----------- |
+| Filter and Join Transformation | This article shows you how to load and transform data using the Apache Spark Python (PySpark) DataFrame API in Databricks. |  [Docs](https://docs.databricks.com/en/getting-started/dataframes-python.html)|  
