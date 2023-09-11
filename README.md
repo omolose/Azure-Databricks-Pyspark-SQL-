@@ -63,4 +63,5 @@ Key Terms | Definition of terms | Documentation Sources |
 | Local Temp View | N/A |  [Docs](https://sparkbyexamples.com/spark/spark-createorreplacetempview-explained/#:~:text=So%20if%20you%20are%20comfortable,is%20not%20materialized%20into%20files.)| 
 | Global Temp View | N/A |  [Docs](https://spark.apache.org/docs/latest/sql-getting-started.html#:~:text=Temporary%20views%20in%20Spark%20SQL,create%20a%20global%20temporary%20view.)|  
 | Filter, Joins & Aggregations  | N/A |  [Docs](https://kaizen.itversity.com/courses/hdpcsd-hdp-certified-spark-developer-hdpcsd-python/lessons/hdpcsd-apache-spark-2-data-frames-and-spark-sql-python/topic/hdpcsd-spark-sql-basic-transformations-such-as-filtering-aggregations-joins-etc-python/)|  
+| Databases  | N/A |  [Docs](https://www.learningjournal.guru/courses/spark/spark-foundation-training/spark-sql-database-and-table/)|  
 
