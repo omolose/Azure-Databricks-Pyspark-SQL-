@@ -75,3 +75,9 @@ Key Terms | Definition of terms | Documentation Sources |
 | Key Terms | Definition of terms | Documentation Sources |
 | ----------- | ----------- |  ----------- |
 | Delta Lake | Delta Lake is the optimized storage layer that provides the foundation for storing data and tables in the Databricks Lakehouse Platform.  |  [Docs](https://docs.databricks.com/en/delta/index.html)|
+
+## 12. Data Factory  - (Section 23) 
+| Key Terms | Definition of terms | Documentation Sources |
+| ----------- | ----------- |  ----------- |
+| Data  Factory | Azure Data Factory enables you to move and transform data from various sources to various destinations. It's a managed cloud service designed specifically for handling complex hybrid extract-transform-load (ETL), extract-load-transform (ELT), and data integration projects.  |  [Docs](https://learn.microsoft.com/en-us/azure/data-factory/introduction)|
+
