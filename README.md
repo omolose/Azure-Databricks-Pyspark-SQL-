@@ -71,3 +71,7 @@ Key Terms | Definition of terms | Documentation Sources |
 | Data pipelines design patterns | N/A |  [Docs](https://www.eckerson.com/articles/data-pipeline-design-patterns)|
 | Incremental Load  | N/A |  [Docs](https://joydipnath.medium.com/incremental-data-loading-with-apache-spark-concept-with-special-parquet-file-feature-of-increment-ebaa89897cff)|  
 
+## 11. Delta Lake  - (Section 22) 
+| Key Terms | Definition of terms | Documentation Sources |
+| ----------- | ----------- |  ----------- |
+| Delta Lake | Delta Lake is the optimized storage layer that provides the foundation for storing data and tables in the Databricks Lakehouse Platform.  |  [Docs](https://docs.databricks.com/en/delta/index.html)|
