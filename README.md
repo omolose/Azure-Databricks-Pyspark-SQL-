@@ -85,3 +85,8 @@ Key Terms | Definition of terms | Documentation Sources |
 | Key Terms | Definition of terms | Documentation Sources |
 | ----------- | ----------- |  ----------- |
 | Connect to Power BI| When you use Databricks as a data source with Power BI, you can bring the advantages of Databricks performance and technology beyond data scientists and data engineers to all business users.  |  [Docs](https://docs.databricks.com/en/partners/bi/power-bi.html)
+
+## 14. Unity Catalog - (Section 25 - 27) 
+| Key Terms | Definition of terms | Documentation Sources |
+| ----------- | ----------- |  ----------- |
+| Unity Catalog| Unity Catalog provides centralized access control, auditing, lineage, and data discovery capabilities across Azure Databricks workspaces. |  [Docs](https://docs.databricks.com/en/partners/bi/power-bi.html)
