@@ -81,3 +81,7 @@ Key Terms | Definition of terms | Documentation Sources |
 | ----------- | ----------- |  ----------- |
 | Data  Factory | Azure Data Factory enables you to move and transform data from various sources to various destinations. It's a managed cloud service designed specifically for handling complex hybrid extract-transform-load (ETL), extract-load-transform (ELT), and data integration projects.  |  [Docs](https://learn.microsoft.com/en-us/azure/data-factory/introduction)|
 
+## 13. Connect to other services - (Section 24) 
+| Key Terms | Definition of terms | Documentation Sources |
+| ----------- | ----------- |  ----------- |
+| Connect to Power BI| When you use Databricks as a data source with Power BI, you can bring the advantages of Databricks performance and technology beyond data scientists and data engineers to all business users.  |  [Docs](https://docs.databricks.com/en/partners/bi/power-bi.html)
