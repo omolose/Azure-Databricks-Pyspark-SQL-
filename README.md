@@ -64,3 +64,10 @@ Key Terms | Definition of terms | Documentation Sources |
 | Databases  | N/A |  [Docs](https://www.learningjournal.guru/courses/spark/spark-foundation-training/spark-sql-database-and-table/)|  
 | Filter, Joins & Aggregations  | N/A |  [Docs](https://kaizen.itversity.com/courses/hdpcsd-hdp-certified-spark-developer-hdpcsd-python/lessons/hdpcsd-apache-spark-2-data-frames-and-spark-sql-python/topic/hdpcsd-spark-sql-basic-transformations-such-as-filtering-aggregations-joins-etc-python/)|  
 
+
+## 10. Incremental Load  - (Section 21) 
+| Key Terms | Definition of terms | Documentation Sources |
+| ----------- | ----------- |  ----------- |
+| Data pipelines design patterns | N/A |  [Docs](https://www.eckerson.com/articles/data-pipeline-design-patterns)|
+| Incremental Load  | N/A |  [Docs](https://joydipnath.medium.com/incremental-data-loading-with-apache-spark-concept-with-special-parquet-file-feature-of-increment-ebaa89897cff)|  
+
